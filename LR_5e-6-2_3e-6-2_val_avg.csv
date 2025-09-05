@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,F1,Specificity
+Decision Tree,0.7961,0.7962,0.7961,0.7961,0.7987
+Gradient Boosting,0.8622,0.8639,0.8622,0.8621,0.8283
+Logistic Regression,0.6428,0.6528,0.6428,0.6369,0.5154
+Neural Network,0.8753,0.8758,0.8753,0.8752,0.8601
+Random Forest,0.8433,0.8433,0.8433,0.8433,0.842
+SVM,0.8541,0.8561,0.8541,0.8539,0.8173
+XGBoost,0.8643,0.8648,0.8643,0.8643,0.8472
